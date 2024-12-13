@@ -1,2 +1,2 @@
 # EDA_F1_Analysis
-![Logo F1](img/f1-image.png)
+![Logo F1](src/data/img/f1_image)
