@@ -1,2 +1,2 @@
 # EDA_F1_Analysis
-![Logo F1](src/img/f1_image.png)
+<img src="src/img/f1_image.png" width="500" height="300" />
