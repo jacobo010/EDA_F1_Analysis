@@ -1,0 +1,76 @@
+year,Driver,Age,Team,Engine,Tyres,Pole,Wins,Podiums,Fastest Laps,Points,% Points,Clinched,# of Rounds Remaining,Margin,% Margin,Team_winner
+1950,Giuseppe Farina,44,Alfa Romeo,Alfa Romeo,P,2,3,3,3,30.0,83.333 (47.619),Round 7 of 7,0,3,10.000,Not awarded
+1951,Juan Manuel Fangio,40,Alfa Romeo,Alfa Romeo,P,4,3,5,5,31.0,86.111 (51.389),Round 8 of 8,0,6,19.355,Not awarded
+1952,Alberto Ascari,34,Ferrari,Ferrari,F,5,6,6,6,36.0,100.000 (74.306),Round 6 of 8,2,12,33.333,Not awarded
+1953,Alberto Ascari,35,Ferrari,Ferrari,P,6,5,5,4,34.5,95.833 (57.407),Round 8 of 9,1,6.5,18.841,Not awarded
+1954,Juan Manuel Fangio,43,Maserati,Maserati,P,5,6,7,3,42.0,93.333 (70.547),Round 7 of 9,2,16.857,40.136,Not awarded
+1955,Juan Manuel Fangio,44,Mercedes,Mercedes,C,3,4,5,3,40.0,88.889 (65.079),Round 6 of 7,1,16.5,41.250,Not awarded
+1956,Juan Manuel Fangio,45,Ferrari,Ferrari,E,6,3,5,4,30.0,66.667 (45.833),Round 8 of 8,0,3,10.000,Not awarded
+1957,Juan Manuel Fangio,46,Maserati,Maserati,P,4,4,6,2,40.0,88.889 (63.889),Round 6 of 8,2,15,37.500,Not awarded
+1958,Mike Hawthorn,29,Ferrari,Ferrari,E,4,1,7,5,42.0,77.778 (49.495),Round 11 of 11,0,1,2.381,Vanwall
+1959,Jack Brabham,33,Cooper,Climax,D,1,2,5,1,31.0,68.889 (41.975),Round 9 of 9,0,4,12.903,Cooper
+1960,Jack Brabham,34,Cooper,Climax,D,3,5,5,3,43.0,89.583 (53.750),Round 8 of 10,2,9,20.930,Cooper
+1961,Phil Hill,34,Ferrari,Ferrari,D,5,2,6,2,34.0,75.556 (52.778),Round 7 of 8,1,1,2.941,Ferrari
+1962,Graham Hill,33,BRM,BRM,D,1,4,6,3,42.0,93.333 (64.198),Round 9 of 9,0,12,28.571,BRM
+1963,Jim Clark,27,Lotus,Climax,D,7,7,9,6,54.0,100.000 (81.111),Round 7 of 10,3,21,38.889,Lotus
+1964,John Surtees,30,Ferrari,Ferrari,D,2,2,6,2,40.0,74.074 (44.444),Round 10 of 10,0,1,2.500,Ferrari
+1965,Jim Clark,29,Lotus,Climax,D,6,6,6,6,54.0,100.000 (60.000),Round 7 of 10,3,14,25.926,Lotus
+1966,Jack Brabham,40,Brabham,Repco,G,3,4,5,1,42.0,93.333 (55.556),Round 7 of 9,2,14,33.333,Brabham
+1967,Denny Hulme,31,Brabham,Repco,G,0,2,8,2,51.0,62.963 (51.515),Round 11 of 11,0,5,9.804,Brabham
+1968,Graham Hill,39,Lotus,Ford,F,2,3,6,0,48.0,53.333 (44.444),Round 12 of 12,0,12,25.000,Lotus
+1969,Jackie Stewart,30,Matra,Ford,D,2,6,7,5,63.0,77.778 (63.636),Round 8 of 11,3,26,41.270,Matra
+1970,Jochen Rindt,28,Lotus,Ford,F,3,5,5,1,45.0,45.455 (38.462),Round 12 of 13,1,5,11.111,Lotus
+1971,Jackie Stewart,32,Tyrrell,Ford,G,6,6,7,3,62.0,76.543 (62.626),Round 8 of 11,3,29,46.774,Tyrrell
+1972,Emerson Fittipaldi,25,Lotus,Ford,F,3,5,8,0,61.0,67.778 (56.481),Round 10 of 12,2,16,26.230,Lotus
+1973,Jackie Stewart,34,Tyrrell,Ford,G,3,5,8,1,71.0,60.684 (52.593),Round 13 of 15,2,16,22.535,Lotus
+1974,Emerson Fittipaldi,27,McLaren,Ford,G,2,3,7,0,55.0,47.009 (40.741),Round 15 of 15,0,3,5.455,McLaren
+1975,Niki Lauda,26,Ferrari,Ferrari,G,9,5,8,2,64.5,59.722 (55.128),Round 13 of 14,1,19.5,30.233,Ferrari
+1976,James Hunt,29,McLaren,Ford,G,8,6,8,2,69.0,54.762 (47.917),Round 16 of 16,0,1,1.449,Ferrari
+1977,Niki Lauda,28,Ferrari,Ferrari,G,2,3,10,3,72.0,53.333 (47.059),Round 15 of 17,2,17,23.611,Ferrari
+1978,Mario Andretti,38,Lotus,Ford,G,8,6,7,3,64.0,50.794 (44.444),Round 14 of 16,2,13,20.313,Lotus
+1979,Jody Scheckter,29,Ferrari,Ferrari,M,1,3,6,0,51.0,70.833 (44.444),Round 13 of 15,2,4,7.843,Ferrari
+1980,Alan Jones,34,Williams,Ford,G,3,5,10,5,67.0,74.444 (56.349),Round 13 of 14,1,13,19.403,Williams
+1981,Nelson Piquet,29,Brabham,Ford,G,4,3,7,1,50.0,50.505 (37.037),Round 15 of 15,0,1,2.000,Williams
+1982,Keke Rosberg,34,Williams,Ford,G,1,1,6,0,44.0,44.444 (30.556),Round 16 of 16,0,5,11.364,Ferrari
+1983,Nelson Piquet,31,Brabham,BMW,M,1,3,8,4,59.0,59.596 (43.704),Round 15 of 15,0,2,3.390,Ferrari
+1984,Niki Lauda,35,McLaren,TAG,M,0,5,9,5,72.0,72.727 (51.613),Round 16 of 16,0,0.5,0.694,McLaren
+1985,Alain Prost,30,McLaren,TAG,G,2,5,11,5,73.0,73.737 (52.778),Round 14 of 16,2,20,27.397,McLaren
+1986,Alain Prost,31,McLaren,TAG,G,1,4,11,2,72.0,72.727 (51.389),Round 16 of 16,0,2,2.778,Williams
+1987,Nelson Piquet,35,Williams,Honda,G,4,3,11,4,73.0,73.737 (52.778),Round 15 of 16,1,12,16.438,Williams
+1988,Ayrton Senna,28,McLaren,Honda,G,13,8,11,3,90.0,90.909 (65.278),Round 15 of 16,1,3,3.333,McLaren
+1989,Alain Prost,34,McLaren,Honda,G,2,4,11,5,76.0,76.768 (56.250),Round 15 of 16,1,16,21.053,McLaren
+1990,Ayrton Senna,30,McLaren,Honda,G,10,6,11,2,78.0,78.788 (54.167),Round 15 of 16,1,7,8.974,McLaren
+1991,Ayrton Senna,31,McLaren,Honda,G,8,7,12,2,96.0,61.935,Round 15 of 16,1,24,25.000,McLaren
+1992,Nigel Mansell,39,Williams,Renault,G,14,9,12,8,108.0,67.500,Round 11 of 16,5,52,48.148,Williams
+1993,Alain Prost,38,Williams,Renault,G,13,7,12,6,99.0,61.875,Round 14 of 16,2,26,26.263,Williams
+1994,Michael Schumacher,25,Benetton,Ford,G,6,8,10,8,92.0,57.500,Round 16 of 16,0,1,1.087,Williams
+1995,Michael Schumacher,26,Benetton,Renault,G,4,9,11,8,102.0,60.000,Round 15 of 17,2,33,32.353,Benetton
+1996,Damon Hill,36,Williams,Renault,G,9,8,10,5,97.0,60.625,Round 16 of 16,0,19,19.588,Williams
+1997,Jacques Villeneuve,26,Williams,Renault,G,10,7,8,3,81.0,47.647,Round 17 of 17,0,39,48.148,Williams
+1998,Mika Häkkinen,30,McLaren,Mercedes,B,9,8,11,6,100.0,62.500,Round 16 of 16,0,14,14.000,McLaren
+1999,Mika Häkkinen,31,McLaren,Mercedes,B,11,5,10,6,76.0,47.500,Round 16 of 16,0,2,2.632,Ferrari
+2000,Michael Schumacher,31,Ferrari,Ferrari,B,9,9,12,2,108.0,63.529,Round 16 of 17,1,19,17.593,Ferrari
+2001,Michael Schumacher,32,Ferrari,Ferrari,B,11,9,14,3,123.0,72.353,Round 13 of 17,4,58,47.154,Ferrari
+2002,Michael Schumacher,33,Ferrari,Ferrari,B,7,11,17,7,144.0,84.706,Round 11 of 17,6,67,46.528,Ferrari
+2003,Michael Schumacher,34,Ferrari,Ferrari,B,5,6,8,5,93.0,58.125,Round 16 of 16,0,2,2.151,Ferrari
+2004,Michael Schumacher,35,Ferrari,Ferrari,B,8,13,15,10,148.0,82.222,Round 14 of 18,4,34,22.973,Ferrari
+2005,Fernando Alonso,24,Renault,Renault,M,6,7,15,2,133.0,70.000,Round 17 of 19,2,21,15.789,Renault
+2006,Fernando Alonso,25,Renault,Renault,M,6,7,14,5,134.0,74.444,Round 18 of 18,0,13,9.701,Renault
+2007,Kimi Räikkönen,28,Ferrari,Ferrari,B,3,6,12,6,110.0,64.706,Round 17 of 17,0,1,0.909,Ferrari
+2008,Lewis Hamilton,23,McLaren,Mercedes,B,7,5,10,1,98.0,54.444,Round 18 of 18,0,1,1.020,Ferrari
+2009,Jenson Button,29,Brawn,Mercedes,B,4,6,9,2,95.0,57.576,Round 16 of 17,1,11,11.579,Brawn
+2010,Sebastian Vettel,23,Red Bull,Renault,B,10,5,10,3,256.0,53.895,Round 19 of 19,0,4,1.563,Red Bull
+2011,Sebastian Vettel,24,Red Bull,Renault,P,15,11,17,3,392.0,82.526,Round 15 of 19,4,122,31.122,Red Bull
+2012,Sebastian Vettel,25,Red Bull,Renault,P,6,5,10,6,281.0,56.200,Round 20 of 20,0,3,1.068,Red Bull
+2013,Sebastian Vettel,26,Red Bull,Renault,P,9,13,16,7,397.0,83.579,Round 16 of 19,3,155,39.043,Red Bull
+2014,Lewis Hamilton,29,Mercedes,Mercedes,P,7,11,16,7,384.0,76.800,Round 19 of 19,0,67,17.448,Mercedes
+2015,Lewis Hamilton,30,Mercedes,Mercedes,P,11,10,17,8,381.0,80.211,Round 16 of 19,3,59,15.486,Mercedes
+2016,Nico Rosberg,31,Mercedes,Mercedes,P,8,9,16,6,385.0,73.333,Round 21 of 21,0,5,1.299,Mercedes
+2017,Lewis Hamilton,32,Mercedes,Mercedes,P,11,9,13,7,363.0,72.600,Round 18 of 20,2,46,12.672,Mercedes
+2018,Lewis Hamilton,33,Mercedes,Mercedes,P,11,11,17,3,408.0,77.714,Round 19 of 21,2,88,21.569,Mercedes
+2019,Lewis Hamilton,34,Mercedes,Mercedes,P,5,11,17,6,413.0,75.641,Round 19 of 21,2,87,21.065,Mercedes
+2020,Lewis Hamilton,35,Mercedes,Mercedes,P,10,11,14,6,347.0,78.507,Round 14 of 17,3,124,35.735,Mercedes
+2021,Max Verstappen,24,Red Bull,Honda,P,10,10,18,6,395.5,69.692,Round 22 of 22,0,8,2.023,Mercedes
+2022,Max Verstappen,25,Red Bull,RBPT,P,7,15,17,5,454.0,76.174,Round 18 of 22,4,146,32.159,Red Bull
+2023,Max Verstappen,26,Red Bull,Honda RBPT,P,12,19,21,9,575.0,92.742,Round 17 of 22,5,290,50.435,Red Bull
+2024,Max Verstappen,27,Red Bull,Honda RBPT,P,8,9,14,3,437.0,65.030,Round 22 of 24,2,63,14.416,McLaren
